@@ -1,0 +1,2 @@
+# Python-Game-Hub
+This project was completed in Grade 12 where I created 2 different games, a login system that would keep track of different accounts and their high scores in each respective game and allow them to select which game they want to play. During this project I learned about GUI and intro to Object Oriented Programing as well as writing efficient python functions. This project was written in python 2.7 and WILL NOT run on python 3 and without pyqt.
